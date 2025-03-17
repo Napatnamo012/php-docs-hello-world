@@ -1,3 +1,3 @@
 <?php
-    echo "Hello world Microsoft Azure!";
+    echo "Hello word Microsoft Azure!";
 ?>
